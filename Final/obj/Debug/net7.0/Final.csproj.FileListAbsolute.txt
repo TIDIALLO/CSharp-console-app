@@ -1,0 +1,15 @@
+D:\dev\dotnet\CSharpCert\contoso\Challenge-Project-variable-data-in-CSharp-main\Final\bin\Debug\net7.0\Final.exe
+D:\dev\dotnet\CSharpCert\contoso\Challenge-Project-variable-data-in-CSharp-main\Final\bin\Debug\net7.0\Final.deps.json
+D:\dev\dotnet\CSharpCert\contoso\Challenge-Project-variable-data-in-CSharp-main\Final\bin\Debug\net7.0\Final.runtimeconfig.json
+D:\dev\dotnet\CSharpCert\contoso\Challenge-Project-variable-data-in-CSharp-main\Final\bin\Debug\net7.0\Final.dll
+D:\dev\dotnet\CSharpCert\contoso\Challenge-Project-variable-data-in-CSharp-main\Final\bin\Debug\net7.0\Final.pdb
+D:\dev\dotnet\CSharpCert\contoso\Challenge-Project-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\Final.csproj.AssemblyReference.cache
+D:\dev\dotnet\CSharpCert\contoso\Challenge-Project-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\Final.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\dotnet\CSharpCert\contoso\Challenge-Project-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\Final.AssemblyInfoInputs.cache
+D:\dev\dotnet\CSharpCert\contoso\Challenge-Project-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\Final.AssemblyInfo.cs
+D:\dev\dotnet\CSharpCert\contoso\Challenge-Project-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\Final.csproj.CoreCompileInputs.cache
+D:\dev\dotnet\CSharpCert\contoso\Challenge-Project-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\Final.dll
+D:\dev\dotnet\CSharpCert\contoso\Challenge-Project-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\refint\Final.dll
+D:\dev\dotnet\CSharpCert\contoso\Challenge-Project-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\Final.pdb
+D:\dev\dotnet\CSharpCert\contoso\Challenge-Project-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\Final.genruntimeconfig.cache
+D:\dev\dotnet\CSharpCert\contoso\Challenge-Project-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\ref\Final.dll
